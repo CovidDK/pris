@@ -1,6 +1,6 @@
 const amountElem = document.querySelector('#amount')
 const start = new Date('01.01.2021')
-const amountIncreasePerSecond = 3611
+const amountIncreasePerSecond = 7200000000 / 2629800
 
 
 setInterval(() => {
