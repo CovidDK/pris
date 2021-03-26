@@ -1,5 +1,5 @@
 const amountElem = document.querySelector('#amount')
-const start = new Date('01.03.2021')
+const start = new Date('03.01.2021')
 const amountIncreasePerSecond = 7200000000 / 2629800
 
 
